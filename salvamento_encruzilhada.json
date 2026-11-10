@@ -1,0 +1,45 @@
+{
+  "jogadores": [
+    {
+      "nome": "ana",
+      "cor": [
+        221,
+        28,
+        48
+      ],
+      "inicio": 0,
+      "pos": [
+        58,
+        58,
+        58,
+        14
+      ],
+      "escudos": 2,
+      "vitorias": 0,
+      "perde_turno": false
+    },
+    {
+      "nome": "leo",
+      "cor": [
+        174,
+        48,
+        215
+      ],
+      "inicio": 26,
+      "pos": [
+        58,
+        57,
+        43,
+        9
+      ],
+      "escudos": 0,
+      "vitorias": 0,
+      "perde_turno": false
+    }
+  ],
+  "turno": 1,
+  "dado": 0,
+  "escolhendo": false,
+  "vencedor": null,
+  "mensagem": "Partida salva com sucesso!"
+}
